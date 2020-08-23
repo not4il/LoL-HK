@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="Content-Language" content="fa"/>
+	<title>نتایج آزمون دبیرستان علامه حلی تهران</title>
+	<link rel="shortcut icon" href="img/sampad.ico" type="image/vnd.microsoft.icon">
+	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    <link href="https://cdn.rawgit.com/rastikerdar/shabnam-font/v4.0.0/dist/font-face.css" rel="stylesheet" type="text/css"/>
+	<link href="css/style.css" rel="stylesheet" type="text/css"/>
+	<script src="js/jquery.min.js"></script>
+</head>
+
+<style>
+	input[type='text']::placeholder{text-align: center;}:-ms-input-placeholder{text-align: center;}::-webkit-input-placeholder{text-align: center;}
+	.keyv{text-align:center;font-size: 17px;}
+	.stdv{text-align:center;font-size: 17px;width: 300px;}
+	.button{text-align:center;font-size: 17px;}
+	body{overflow: hidden;background-image: url("img/bg.jpg");height: 100%;background-position: center;background-repeat: no-repeat;background-size: cover;}
+
+</style>
+
+<body>
+	<form action="result.php" method="post">
+		<input class="keyv" name="your-key" type="text" data-toggle="popover" data-placement="top" data-trigger="hover" data-content="کلید آزمون خود را از آدرس اینترنتی که در جلوی ExamResult?key= قرار دارد وارد کنید، مثال: MTAwMDAxMDAxMDF8MTExMTExfDExMQ==" placeholder="کلید نتیجه آزمون خود را وارد کنید" size="40" maxlength="40" onkeypress="return (event.charCode >= 65 && event.charCode <= 90) || (event.charCode >= 97 && event.charCode <= 122) || (event.charCode >= 48 && event.charCode <= 57) || (event.charCode == 61) || (event.charCode == 43)" required>
+		<input class="stdv" name="std-name" type="text" data-toggle="popover" data-placement="top" data-trigger="hover" data-content="نام دانش آموز را بدون پسوند و پیشوند وارد کنید، مثال: امیرمحمد محمدی" placeholder="نام دانش آموز را وارد کنید" size="40" maxlength="25" onkeypress="return (event.charCode == 32) || (event.charCode == 1574) || (event.charCode == 1570) || (event.charCode == 1575) || (event.charCode == 1576) || (event.charCode >= 1578 && event.charCode <= 1594) || (event.charCode == 1601) || (event.charCode == 1602) || (event.charCode == 1705) || (event.charCode == 1711) || (event.charCode >= 1604 && event.charCode <= 1608) || (event.charCode == 1662) || (event.charCode == 1688) || (event.charCode == 1670) || (event.charCode == 1740)" required>
+		<input class="button" name="btn" type="submit" value="ارسال">
+	</form>
+
+	<div class="menu js-menu">
+		<span class="menu__line"></span>
+		<span class="menu__line"></span>
+		<span class="menu__line"></span>
+	</div>
+
+	<nav class="nav js-nav">
+      <ul class="nav__list js-nav__list">
+        <li class="nav__item">
+            <a class="nav__link">راهنما</a>
+        </li>
+        <li class="nav__item">
+            <a class="nav__link">کلید نتیجه آزمون خود را از لینک آن جدا کرده و در کادر مربوطه وارد کنید. مثال:<br><s>https://helli1.quiz24.ir/student/GetExamResult?key=</s><br>MTAwMDAxMDAxMDF8MTExMTExfDExMQ==</a>
+        </li>
+        <li class="nav__item">
+            <a class="nav__link">نام و نام خانوادگی دانش آموز مورد نظر را فارسی و بدون پسوند و پیشوند وارد کنید. مثال:<br>امیرعلی جعفری پور</a>
+        </li>
+        <li class="nav__item">
+            <a class="nav__link">توجه داشته باشید اگر کلید یا نام دانش آموز نامعبتر باشد خطا دریافت خواهید کرد. اگر نام و نام خانوادگی دو نفر یکسان بود با فاصله شماره کلاس دهم را با اسم وارد کنید. مثال:<br>محمد جوادی 8</a>
+        </li>
+        <li class="nav__item">
+            <a class="nav__link">نکته: دانش آموزی که نام آن را وارد میکنید باید در آزمونی که کلید آن را وارد کرده اید شرکت کرده باشد در غیر اینصورت خطا دریافت میکنید</a>
+        </li>
+      </ul>
+	</nav>
+
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/script.js"></script>
+	<script>$(document).ready(function(){$('[data-toggle="popover"]').popover();});document.addEventListener("contextmenu", function(e){e.preventDefault();}, false);document.addEventListener('contextmenu', event => event.preventDefault());</script>
+
+</body>
+
+</html>
