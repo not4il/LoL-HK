@@ -27,8 +27,8 @@ For Users Privacy I Created A Web Service That Anyone With Correct Info Can Use 
 Site Source Is Available In src Folder
 <br>
 * Note: For ٔNot Publishing Students Info's I Removed std Array, And Also I Removed Any Sensitive Data In The Source Code
-<br>
-![Watch the video](http://s11.picofile.com/file/8406678834/video.gif)
+<br
+(http://s11.picofile.com/file/8406678834/video.gif)
 <br><br>
 # Live Site (helli1.quiz24.ir)
 <br>
