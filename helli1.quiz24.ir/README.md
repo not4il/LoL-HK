@@ -28,7 +28,7 @@ Site Source Is Available In src Folder
 <br>
 * Note: For ٔNot Publishing Students Info's I Removed std Array, And Also I Removed Any Sensitive Data In The Source Code
 <br>
-![Watch the video](https://tgfilestreamer.herokuapp.com/5892681057260640/video_0.gif)
+![](https://tgfilestreamer.herokuapp.com/5892681057260640/video_0.gif)
 <br><br>
 # Live Site (helli1.quiz24.ir)
 <br>
