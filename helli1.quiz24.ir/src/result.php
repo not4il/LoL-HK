@@ -2,7 +2,7 @@
 
 
 function find_std($name){
-	$stdname = array();
+	$stdname = array(); // For Privacy Students Name & Username Removed
   $a = $stdname[$name];
   return $a;
 }
