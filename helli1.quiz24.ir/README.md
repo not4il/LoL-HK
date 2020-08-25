@@ -15,9 +15,9 @@ Keys Format Is Like This: username|examcode|companyid
 <br>
 For My High School, companyid Default Code Was 144 And Usernames Generated With Class Numbers And Name Orders:
 <br>
-For Example: 10000300115|176425|144
+For Example: 10000110115|176425|144
 <br>
-The Student Class Number Is 3, He Is The Fifteenth Person In The Class And He Is In Tenth Grade
+The Student Class Number Is 3, He Is The Fifteenth Person In The Class And He Is In Eleventh Grade
 <br>
 The examcode Is 176425 & The companyid Is 144
 <br><br>
