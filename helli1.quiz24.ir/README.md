@@ -29,7 +29,6 @@ Site Source Is Available In src Folder
 * Note: For ٔNot Publishing Students Info's I Removed std Array, And Also I Removed Any Sensitive Data In The Source Code
 <br><br>
 # Live Site "helli1.quiz24.ir"
-<br>
 http://quiz24.rf.gd
 <br><br>
 <img src="http://s10.picofile.com/file/8406679642/testing.gif" width="1000"/>
