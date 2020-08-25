@@ -17,7 +17,7 @@ For My High School, companyid Default Code Was 144 And Usernames Generated With 
 <br>
 For Example: 10000300115|176425|144
 <br>
-For My e.g The Student Class Number Is 3 And He Is The Fifteenth Person In The Class
+The Student Class Number Is 3, He Is The Fifteenth Person In The Class And He Is In Tenth Grade
 <br>
 The examcode Is 176425 & The companyid Is 144
 <br><br>
