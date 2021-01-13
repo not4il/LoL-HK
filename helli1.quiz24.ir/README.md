@@ -1,32 +1,32 @@
 # quiz24.ir / *.quiz24.ir
-Unauthorized Access To Accounts Exam Result
+Unauthorized access to accounts exam result
 <br><br>
 # Requirments
-A Registered Account
+A registered account
 <br>
-Other Accounts Username
+Other accounts usernames
 <br>
-An Exam Key / Exam Code
+An exam key / Exam code
 <br><br>
 # Description
-quiz24.ir Uses Base64 For Encode/Decode, I Decode A Key And I Recognized That How To Create A New One:
+quiz24.ir uses base64 for Encode/Decode, i decoded a key and i recognized that how to create a new one:
 <br>
-Keys Format Is Like This: username|examcode|companyid
+Keys format is like this: username|examcode|companyid
 <br>
-For My High School, companyid Default Code Was 144 And Usernames Generated With Class Numbers And Name Orders:
+For my high school, companyid default code was 144 and usernames generated with class numbers and name orders:
 <br>
-For Example: 10000110115|176425|144
+e.g. : 10000110115|176425|144
 <br>
-The Student Class Number Is 3, He Is The Fifteenth Person In The Class And He Is In Eleventh Grade
+The student class number is 3, he is the fifteenth person in the class and he is in eleventh grade
 <br>
-The examcode Is 176425 & The companyid Is 144
+The examcode is 176425 & the companyid is 144
 <br><br>
 # Web Service
-For Users Privacy I Created A Web Service That Anyone With Correct Info Can Use It!
+For users privacy i created a web service that anyone with correct info can use it!
 <br>
-Site Source Is Available In src Folder
+The source is available in src folder
 <br>
-* Note: For ٔNot Publishing Students Info's I Removed std Array, And Also I Removed Any Sensitive Data In The Source Code
+* Note: For not publishing students info's i removed std array contents, and also i removed any sensitive data in the source code
 <br><br>
 # Live Site "helli1.quiz24.ir" (Down)
 http://quiz24.rf.gd
