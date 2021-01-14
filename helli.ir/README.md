@@ -1,5 +1,7 @@
 # helli.ir
 Use xss attack on homework name fields
+<br>
+Use a fake page (phishing attack) and get admins password
 <br><br>
 # Requirments
 A registered account
