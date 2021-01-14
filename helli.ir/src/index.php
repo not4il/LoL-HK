@@ -1,6 +1,6 @@
 <?php
-##    header("Location: https://www.helli.ml/portal/");
-##?>
+    header("Location: https://www.helli.ml/portal/");
+?>
 
 <html>
     <head>
